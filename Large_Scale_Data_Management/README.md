@@ -1,7 +1,7 @@
 # Large Scale Data Management
 
 ## 🐘 MapReduce
-This project uses Hadoop Distributed File System (HDFS) and MapReduce to process and analyze large datasets across distributed clusters. Utilizing Vagrant and Docker for virtualization, we detail two MapReduce jobs: a word count of ”Don Quixote” and analysis of Spotify song metrics for danceability.
+This project uses Hadoop Distributed File System (HDFS) and MapReduce to process and analyze large datasets across distributed clusters. Utilizing Vagrant and Docker for virtualization, we detail two MapReduce jobs (in ☕ Java): a word count of ”Don Quixote” and analysis of Spotify song metrics for danceability.
 - **Code**: [Driver](https://github.com/FoivosM/MSc-Projects/blob/master/Large_Scale_Data_Management/MapReduce/Driver.java), [MRjob](https://github.com/FoivosM/MSc-Projects/blob/master/Large_Scale_Data_Management/MapReduce/DanceabilityAnalysis.java) 
 - **Report**: [PDF](https://github.com/FoivosM/MSc-Projects/blob/master/Large_Scale_Data_Management/MapReduce/LSDM.A1.report.pdf)
 
