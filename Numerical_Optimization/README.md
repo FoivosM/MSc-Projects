@@ -16,7 +16,7 @@ This exercise involves constructing an algorithm for the classification of handw
 - Singular Vector Decomposition.
 - Classification.
 
-# 🕸 Project 4 - PageRank
+## 🕸 Project 4 - PageRank
 This is an attempt to replicate Google's PageRank algorithm (following [this](https://www.stat.uchicago.edu/~lekheng/meetings/mathofranking/ref/langville.pdf) paper), which aims to order a set of available web pages by their *status* in relation to every other available page. Additionally, the effect of the malicious practice of *Link Farms* is examined, which tries to surreptitiously boost the status of a web page.
 - PageRank computation using the power method.
 - PageRank computation using system of linear equations.
