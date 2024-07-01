@@ -9,6 +9,7 @@ Course|Keywords
 [Deep Learning](https://github.com/FoivosM/MSc-Projects/tree/master/Deep_Learning)| Domain Adaptation, Transfer Learning, Image Classification, PyTorch, DANN.
 [Large Scale Data Management](https://github.com/FoivosM/MSc-Projects/tree/master/Large_Scale_Data_Management)|Hadoop, MapReduce, Docker, Vagrant, Kafka, (Py)Spark, Cassandra, Java.
 [Machine Learning](https://github.com/FoivosM/MSc-Projects/tree/master/Machine_Learning)|Regression, Regularization, Classification, HSI processing.
+[Numerical Optimization](https://github.com/FoivosM/MSc-Projects/tree/master/Numerical_Optimization)|Regression, Classification, Dimensionality Reduction, SVD, PageRank, NLP, LSA, CA, Hierarchical Clustering, Document Similarity, PSO.
 [Practical Data Science](https://github.com/FoivosM/MSc-Projects/tree/master/Practical_Data_Science)|Web-scraping, RegEx, NLP, Prompt Engineering, Authorship detection.
 [Text Analytics](https://github.com/FoivosM/MSc-Projects/tree/master/Text_Analytics-NLP)|NLP, Sentiment Analysis, POS-Tagging, Deep Neural Networks, MLPs, RNNs, CNNs, Transformers, Keras-TF.
 
