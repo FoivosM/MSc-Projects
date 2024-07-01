@@ -21,3 +21,11 @@ This is an attempt to replicate Google's PageRank algorithm (following [this](ht
 - PageRank computation using the power method.
 - PageRank computation using system of linear equations.
 - How to create a Link Farm 🤫.
+
+## 👨‍🔬 Project 5 - NLP
+This project aims to hierarchically classify academic papers based on their abstracts into respective categories. It utilizes Latent Semantic Analysis (LSA) and Correspondence Analysis for abstract representations. Additionally, the project employs cosine similarity to identify similarities between papers, enhancing the classification process and enabling efficient literature exploration.
+
+- Latent Semantic Analysis (LSA).
+- Correspondence Analysis (CA).
+- Hierarchical Clustering.
+- Cosine Similarity.

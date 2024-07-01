@@ -7,7 +7,7 @@ Transductive Learning with Graph Neural Networks. Second place in a closed Kaggl
 
 The goal of this project is to classify Greek domain names into predefined categories. This task, known as node classification, involves predicting the category of each domain based on its attributes and relationships within a web graph and its textual content.
 
-- **Presentation**: [PDF]()
-- **Report**: [PDF]()
+- **Presentation**: [PDF](https://github.com/FoivosM/MSc-Projects/blob/master/Data_Science_Challenge/1.presentation.pdf)
+- **Report**: [PDF](https://github.com/FoivosM/MSc-Projects/blob/master/Data_Science_Challenge/0.report.pdf)
 
 ![gnn](../img/graph-unlabeled.png)
