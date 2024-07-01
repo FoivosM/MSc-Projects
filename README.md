@@ -37,4 +37,4 @@ Assistants:
 - Spiridoula Xenaki
 
 ### Disclaimer
-*The uploaded files appear exactly as they were submitted. They have been purposefully not corrected or embellished, in order to reflect my personal growth and the level of detail I could provide under such demanding circumstances.*
+*The uploaded files appear exactly as they were submitted. They have been purposefully **NOT** corrected or embellished, in order to reflect my personal growth and the level of detail I could provide under such demanding circumstances.*
