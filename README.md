@@ -12,6 +12,7 @@ Course|Keywords
 [Numerical Optimization](https://github.com/FoivosM/MSc-Projects/tree/master/Numerical_Optimization)|Regression, Classification, Dimensionality Reduction, SVD, PageRank, NLP, LSA, CA, Hierarchical Clustering, Document Similarity, PSO.
 [Practical Data Science](https://github.com/FoivosM/MSc-Projects/tree/master/Practical_Data_Science)|Web-scraping, RegEx, NLP, Prompt Engineering, Authorship detection.
 [Text Analytics](https://github.com/FoivosM/MSc-Projects/tree/master/Text_Analytics-NLP)|NLP, Sentiment Analysis, POS-Tagging, Deep Neural Networks, MLPs, RNNs, CNNs, Transformers, Keras-TF.
+[SQL](https://github.com/FoivosM/MSc-Projects/tree/master/SQL_Data_Bases)| Database Design, ETL Process, Data Transformation, Performance Optimization.
 
 ## Acknowledgements
 I would like to thank all my professors for setting-up this challenging educational journey for us. The teaching assistants for their endless support. All of my classmates for being the best full-time-team ever. Thank you.
